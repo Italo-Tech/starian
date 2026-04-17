@@ -50,3 +50,4 @@ frontend/dist/
 # Backend
 backend/node_modules/
 backend/dist/
+backend/*.sqlite
