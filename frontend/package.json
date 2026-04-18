@@ -2,6 +2,7 @@
   "name": "persons-crud-frontend",
   "version": "1.0.0",
   "private": true,
+  "author": "Ítalo Henrique",
   "type": "module",
   "scripts": {
     "dev": "vite",

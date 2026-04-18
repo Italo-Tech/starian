@@ -2,6 +2,7 @@
   "name": "persons-crud-backend",
   "version": "1.0.0",
   "description": "CRUD de Cadastro de Pessoas - Backend NestJS",
+  "author": "Ítalo Henrique",
   "scripts": {
     "build": "nest build",
     "start": "nest start",
